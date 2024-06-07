@@ -18,13 +18,14 @@
 		"graphql-tag": "^2.12.6",
 		"graphql-ws": "^5.13.1",
 		"graphql-yoga": "^3.9.1",
-		"houdini": "1.2.3",
-		"houdini-svelte": "1.2.3",
+		"houdini": "1.2.47",
+		"houdini-svelte": "1.2.47",
 		"svelte": "^3.59.1",
 		"svelte-preprocess": "^5.0.3",
 		"tslib": "^2.5.0",
 		"typescript": "^5.0.4",
 		"vite": "^4.3.7",
-		"ws": "^8.13.0"
+		"ws": "^8.13.0",
+		"vite-plugin-circular-dependency": "^0.4.1"
 	}
 }
